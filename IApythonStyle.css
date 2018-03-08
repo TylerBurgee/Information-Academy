@@ -1,0 +1,16 @@
+p {
+	width: 50%;
+	padding: 2%;
+	margin-top: 2%;
+	color: white;
+	border: rgb(0, 100, 255) 1px solid;
+	font-family: sans-serif;
+}
+img {
+	width: 50%;
+	margin-top: 2%;
+}
+
+i {
+	color: rgb(0, 255, 0);
+}

@@ -1,0 +1,82 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+html {
+	background: url('https://ichef-1.bbci.co.uk/news/660/cpsprodpb/650B/production/_95576852_038249207-1.jpg') no-repeat center center fixed;
+	background-size: cover;
+}
+nav {
+	background: rgb(53, 61, 76);
+}
+a {
+	color: white;
+}
+table {
+	padding: 2%;
+	display: inline-block;
+	color: rgb(255,255,255);
+}
+#TITLE {
+	border: 1px solid;
+}
+#home {
+	margin-left: 2%;
+}
+#about {
+	margin-left: 3.5%;		
+}
+#lessons {
+	margin-left: 5.5%;
+}
+#store {
+	margin-left: 6%;
+}
+#contact {
+	margin-left: 8%;
+}
+h1 {
+	margin-top: 3%;
+	font-family: 'Brush Script MT';
+	font-size: 400%;
+	color: rgb(255, 255, 255);
+}
+h2 {
+	color: rgb(255, 255, 255);
+}
+.content {
+	margin-top: 40%;
+	background: rgb(20, 40, 73);
+}
+#header {
+	padding: 1.5%;
+	background: rgb(53, 61, 76);
+	color: rgb(255, 255, 255);
+	text-align: left;
+}
+footer {
+	padding: 1.5%;
+	background: rgb(53, 61, 76);
+	color: rgb(255, 255, 255);
+	text-align: left;
+}
+button {
+	font-family: 'Arial';
+	font-size: 150%;
+	padding: 8% 10%;
+	margin-top: 3%;
+	margin-left: 6%;
+	width: 125%;
+	border: 0;
+	outline: 0;
+	color: white;
+	background-color: #2196F3;
+	text-transform: uppercase;
+	border-radius: 8.35em;
+	box-shadow: 0 0 8px rgba(0,0,0,0.3);
+}
+.container {
+	padding: 2%;
+	margin-top: 2%;
+	border: rgb(0, 100, 250) 1px solid;
+}
